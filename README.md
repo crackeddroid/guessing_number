@@ -1,4 +1,3 @@
-Guessing Number Game in C
 🎮 Welcome to the Guessing Number Game! 🎮
 <br>
 Features:<br>
